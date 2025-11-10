@@ -3,19 +3,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Joatham+Nascimento+Silva;I+was+born+in+1995;I+am+from+Garanhuns,+PE;I+Study+Games+and+Web+systems+development+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IIYHWHII&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=000000" alt="Joatham nascimento silva github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIYHWHII&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=000000" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=YHWHZERO&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=000000" alt="Joatham nascimento silva github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YHWHZERO&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=000000" />
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IIYHWHII&bg_color=000000&color=15e5a6&line=9b111e&point=09999c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YHWHZERO&bg_color=000000&color=15e5a6&line=9b111e&point=09999c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IIYHWHII&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YHWHZERO&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
-<a href="https://www.instagram.com/ii_yhwh_ii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/joatham.dev.br/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
  
 ### Main skills:
